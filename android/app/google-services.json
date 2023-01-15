@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "902645429143",
+    "project_id": "medihub-dfc57",
+    "storage_bucket": "medihub-dfc57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902645429143:android:e61ca88bf7f07b5d484ad2",
+        "android_client_info": {
+          "package_name": "com.example.medicine_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902645429143-ohrnkndv64a362db8omcvja8s2297ubf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5OZ7WGkUJsRJbcpXSGD7JSYlHt5T83n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902645429143-ohrnkndv64a362db8omcvja8s2297ubf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "902645429143-jf6jj375kp33js2th14dgrum2k7la1tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicineHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
